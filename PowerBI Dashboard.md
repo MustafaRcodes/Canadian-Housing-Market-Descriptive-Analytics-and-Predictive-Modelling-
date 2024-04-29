@@ -23,8 +23,8 @@ For an investor, this may also mean that the increase in the value of the asset 
 Insights:SNLR represents the Sales to New Listing Ratio. 
 
 1) 40% - 60%: balanced market
-2) > 60%: seller' market
-3) < 40%: buyers' market
+2)  > 60%: seller' market
+3)  < 40%: buyers' market
 
 Overall, it is the sellers' market currently
 One exceptions is the detached house, with balanced markets in Peel, Toronto, Halton and York.
@@ -52,6 +52,7 @@ Insights:SP/LP ratio: selling price/listing price.
 1) =1: balanced market
 2) > 1: sellers' market
 3) < 1: buyers' market
+   
 Aside from condo apartments and detached house is Peel and Halton, the other home types are seller' market. indicating that prices for those properties are relatively more reasonable compared to others.
 <img width="597" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/86d65c6c-8f0c-42e9-bc4c-d697eca1b3ac">
 
