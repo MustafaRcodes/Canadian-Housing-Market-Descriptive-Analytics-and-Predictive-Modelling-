@@ -21,18 +21,22 @@ For an investor, this may also mean that the increase in the value of the asset 
 <img width="597" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/45e0fe6a-55a5-4fd9-b8ae-6a77d0d65e60">
 
 Insights:SNLR represents the Sales to New Listing Ratio. 
+
 40% - 60%: balanced market
 >60%: seller' market
 < 40%: buyers' market
+
 Overall, it is the sellers' market currently
 One exceptions is the detached house, with balanced markets in Peel, Toronto, Halton and York.
 Another exception is the condo apartment, with balanced markets in Peel, Toronto and York.
 <img width="596" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/f77e7cb0-901b-4311-8e90-3690b7242960">
 
 Insights:MOI gauges the duration it would require to sell all available listings. 
+
 0-4 months: seller's market. 
 5-7 momths: balanced market.
 >= 8 months: buyers' market.
+
 All cities are a seller's market. for all home types.  This means that the sellers set terms or raise prices. 
 Toronto exhibits the longest months on inventory. This might be due to the larger number of sellers in Toronto, leading to a longer time needed to sell properties.
 <img width="596" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/0f57c015-91bc-4f22-b693-26d8f4639d97">
@@ -44,6 +48,7 @@ the average DOM for condo apartments in Toronto is the second lowest among the f
 <img width="596" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/b6e379a9-bfd4-4bed-ab75-adeefd116acf">
 
 Insights:SP/LP ratio: selling price/listing price.
+
 =1: balanced market
 >1: sellers' market
 <1: buyers' market
