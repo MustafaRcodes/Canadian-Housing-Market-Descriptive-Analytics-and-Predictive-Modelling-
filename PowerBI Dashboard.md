@@ -1,5 +1,6 @@
 # Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-
-Interactive Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZDMxNTc1ZTktMWU0OC00MjFiLWEwZjEtYTk4Mjk0YjQy
+Interactive Dashboard link: 
+https://app.powerbi.com/view?r=eyJrIjoiZDMxNTc1ZTktMWU0OC00MjFiLWEwZjEtYTk4Mjk0YjQy
 YjFlIiwidCI6IjBlZjAwZTYyLTViZWYtNDE5OC1hMTU4LTMyMTNjZTY0ZjJhMSJ9
 
 My analytical procedure, including data merging with Python, data cleaning, feature engineering, data visualization using Power BI, and predictive modeling. I start by analyzing pricing trends and market conditions, especially post-COVID-19. Next, I evaluate housing market supply and demand using four key indicators and predictive modelling.
