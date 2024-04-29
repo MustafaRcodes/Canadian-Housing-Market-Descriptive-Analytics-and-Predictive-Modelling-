@@ -2,7 +2,7 @@
 Interactive Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZDMxNTc1ZTktMWU0OC00MjFiLWEwZjEtYTk4Mjk0YjQy
 YjFlIiwidCI6IjBlZjAwZTYyLTViZWYtNDE5OC1hMTU4LTMyMTNjZTY0ZjJhMSJ9
 
-My analytical procedure, including data merging with Python, data cleaning, Feature engineering, data visualization using Power BI, and predictive modeling. I start by analyzing pricing trends and market conditions, especially post-COVID-19. Next, I evaluate housing market supply and demand using four key indicators and predictive modelling.
+My analytical procedure, including data merging with Python, data cleaning, feature engineering, data visualization using Power BI, and predictive modeling. I start by analyzing pricing trends and market conditions, especially post-COVID-19. Next, I evaluate housing market supply and demand using four key indicators and predictive modelling.
 
 Insights: Overall, my results are indicative of a natural life cycle in the real-estate market. 
 Overvaluation in the housing market has already been identified (2021), where houses were overvalued compared to income levels & affordability. This was followed by a slowdown in price growth (2022) due to the buyer becoming cautious & aware of the overheating of the market. The demand softened while the sellers perhaps rushed to list properties at the first signs of price growth slowing down.The year 2023 signifies market correction where prices will be pushed down and adjust till supply & demand strike a new balance.
