@@ -57,6 +57,34 @@ Aside from condo apartments and detached house is Peel and Halton, the other hom
 <img width="597" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/86d65c6c-8f0c-42e9-bc4c-d697eca1b3ac">
 
 
+Methods: we use elasticity to measure factor's influence on housing prices. 
+Elasticity >= 1: the factor is elastic to housing prices. Otherwise it is considered inelastic.
 
+Factors:
+Bank Rates - a proxy to mortgage rates
+Number of schools
+Construction permits - a proxy to future supply
+Sales volume - a proxy to demand
+Insights:
+
+Interest Rate: 
+
+Housing prices is elastic to interest rates, with an elasticity between -1.58 and -1.67. This suggests an inverse and material effect of interest rate fluctuations on housing prices. Essentially, when interest rates rise, housing prices tend to decrease, and vice versa.
+It’s important to note that the influence of interest rates on housing prices is not immediate and may exhibit a lag in certain regions and for specific types of houses. When interest rates change, consumers and investors require time to reassess their home buying plans or investment strategies, and the real estate transaction process itself takes time. These factors could potentially delay the impact of interest rate changes on housing prices. Apart from interest rates, housing prices are impacted by supply and demand factors, geographic locations, surrounding environment, amenities, among other things. These factors' change could also offset the influence of interest rates, and lead to a lag in price movement.
+
+Construction Permits: 
+
+The elasticity between housing prices and construction permits (or house supply) is between 0.83 and 0.84, indicating that an 1% increase in construction permits (supply) could lead to 0.83% to 0.84% increase in housing prices, given all other factors remain constant. 
+Unlike the conventional supply-demand dynamics where increasing supply leads to lower prices, the increased prices might reflect the perceived value of upcoming developments and a robust demand in the market. Specifically, When a region issues a large number of construction permits, it could signify a positive development trend in that area, with more residences, facilities, and services expected to be established in the future. Consequently, buyers may anticipate an increase in the value of the region in the future, and willing to pay a higher price. 
+
+School Quantity: 
+
+The price elasticity with respect to the number of schools is as high as 2.94, suggesting a significant influence of school quantity on housing prices. Parents might be willing to pay higher prices for houses that are closer to a greater number of quality schools, thereby increasing housing prices.
+
+Sales Volume: 
+
+The elasticity of housing prices to sales volume is near zero (-0.02), indicating a very minor impact of sales volume on housing prices. This may imply that when considering buying a house, buyers are more concerned with other factors such as interest rates, the number of schools, and house supply, and are less sensitive to changes in sales volume.
+Sales volume is often used as a proxy for market demand with higher sales volume typically indicating strong demand. 
+<img width="598" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/ed1f3179-306e-422b-b16b-05b7b217427c">
 
 
