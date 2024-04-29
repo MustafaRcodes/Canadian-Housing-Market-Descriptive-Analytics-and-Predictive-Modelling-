@@ -22,9 +22,9 @@ For an investor, this may also mean that the increase in the value of the asset 
 
 Insights:SNLR represents the Sales to New Listing Ratio. 
 
-40% - 60%: balanced market
->60%: seller' market
-< 40%: buyers' market
+1) 40% - 60%: balanced market
+2) >60%: seller' market
+3) < 40%: buyers' market
 
 Overall, it is the sellers' market currently
 One exceptions is the detached house, with balanced markets in Peel, Toronto, Halton and York.
@@ -33,9 +33,9 @@ Another exception is the condo apartment, with balanced markets in Peel, Toronto
 
 Insights:MOI gauges the duration it would require to sell all available listings. 
 
-0-4 months: seller's market. 
-5-7 momths: balanced market.
->= 8 months: buyers' market.
+1) 0-4 months: seller's market. 
+2) 5-7 momths: balanced market.
+3) >= 8 months: buyers' market.
 
 All cities are a seller's market. for all home types.  This means that the sellers set terms or raise prices. 
 Toronto exhibits the longest months on inventory. This might be due to the larger number of sellers in Toronto, leading to a longer time needed to sell properties.
@@ -49,9 +49,9 @@ the average DOM for condo apartments in Toronto is the second lowest among the f
 
 Insights:SP/LP ratio: selling price/listing price.
 
-=1: balanced market
->1: sellers' market
-<1: buyers' market
+1) =1: balanced market
+2) >1: sellers' market
+3) <1: buyers' market
 Aside from condo apartments and detached house is Peel and Halton, the other home types are seller' market. indicating that prices for those properties are relatively more reasonable compared to others.
 <img width="597" alt="image" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/86d65c6c-8f0c-42e9-bc4c-d697eca1b3ac">
 
