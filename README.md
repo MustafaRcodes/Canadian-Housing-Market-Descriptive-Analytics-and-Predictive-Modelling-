@@ -8,9 +8,11 @@ Insights: Overall, my results are indicative of a natural life cycle in the real
 <img width="594" alt="pic 1" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/fdbd0d44-1f98-4f73-a413-b08d04517bb8">
 
 Insights: Although the fluctuations in housing sales volume vary across different cities, they all maintain a consistent trend. From 2012 to 2023, sales in the GTA Area has experienced two peak periods, occurring in 2016 and 2021, respectively. Since the Canadian central bank began raising interest rates in March 2022, housing sales volume in various regions of GTA have shown a decline with the prices decline accordingly.
+
 <img width="596" alt="Pic 2" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/569ef0c5-5c02-4723-96bf-a029fdfe1e6c">
 
 Insights: Overall, housing prices in Toronto are significantly higher than in other regions for all home types. Durham has the lowest average prices for all home types. Average price CAGR from 2012 to 2023 appears to be the similar across all types of buildings (ranging from 7.2% to 8.2%). This gives a few useful insights into the market segments. Demand/Supply balance has been maintained in the same proportion across all segments in the housing market. The prices in the housing market is primarily governed by the broader economic factors and relates weakly to differences in preferences for various types of housing. For an investor, this may also mean that the increase in the value of the asset is not governed by the type of house the investor invests in.
+
 <img width="597" alt="Pic 3" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/8dc91a7d-8e34-4b51-a0d4-507302c7dfee">
 
 Insights:SNLR represents the Sales to New Listing Ratio.
@@ -71,5 +73,6 @@ The price elasticity with respect to the number of schools is as high as 2.94, s
 Sales Volume:
 
 The elasticity of housing prices to sales volume is near zero (-0.02), indicating a very minor impact of sales volume on housing prices. This may imply that when considering buying a house, buyers are more concerned with other factors such as interest rates, the number of schools, and house supply, and are less sensitive to changes in sales volume. Sales volume is often used as a proxy for market demand with higher sales volume typically indicating strong demand. 
+
 <img width="598" alt="Pic 8" src="https://github.com/MustafaRcodes/Canadian-Housing-Market-Descriptive-Analytics-and-Predictive-Modelling-/assets/150495517/cb72d41b-0d4f-4265-b54b-747fd9bd302d">
 
